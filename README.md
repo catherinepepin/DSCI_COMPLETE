@@ -1,4 +1,4 @@
-# DSCI_COMPLETE
+# Prediction Model for Heart Disease in Males
 
 ## Project Introduction
 
